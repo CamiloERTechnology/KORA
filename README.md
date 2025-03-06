@@ -1,2 +1,2 @@
-# ChatBotNLP
-Repositorio del Chat Bot NLP
+# KORA
+Repositorio del Agente virtual KORA
